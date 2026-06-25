@@ -18,4 +18,5 @@ This readme file contains the division of every chapter's exercises that I've do
 
 ## Chapter 4
 - strings
--
+- ownership
+- slicing
